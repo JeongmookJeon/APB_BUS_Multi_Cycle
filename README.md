@@ -1,4 +1,3 @@
-# APB_BUS_Multi_Cycle
 # 🚀 RV32I & AMBA APB Bus Multi-Cycle Processor Design
 > **온디바이스 AI 반도체 설계 1기** 프로젝트 (2026.03)
 
@@ -38,7 +37,7 @@
 
 ---
 
-## 🚌 APB Master & BRAM 
+## 🚌 APB Master & BRAM (신성민)
 
 <!-- 📸 [이미지 삽입 가이드] 여기에 PPT 27쪽 'Master Block Diagram' 및 28쪽 'APB Master FSM' 이미지를 삽입하세요. -->
 > *(예시) ![APB Master FSM](./images/apb_master_fsm.png)*
@@ -49,7 +48,7 @@
 
 ---
 
-## 💡 APB GPIO & FND
+## 💡 APB GPIO & FND (강동우)
 
 <!-- 📸 [이미지 삽입 가이드] 여기에 PPT 43~45쪽 'GPIO & FND Block Diagram' 이미지를 삽입하세요. -->
 > *(예시) ![GPIO Block Diagram](./images/gpio_block_diagram.png)*
@@ -60,7 +59,7 @@
 
 ---
 
-## 🔌 APB UART 
+## 🔌 APB UART (최수영)
 
 <!-- 📸 [이미지 삽입 가이드] 여기에 PPT 54쪽 'UART Block Diagram' 및 55쪽 'Port Configuration Register' 이미지를 삽입하세요. -->
 > *(예시) ![UART Configuration](./images/uart_config.png)*
