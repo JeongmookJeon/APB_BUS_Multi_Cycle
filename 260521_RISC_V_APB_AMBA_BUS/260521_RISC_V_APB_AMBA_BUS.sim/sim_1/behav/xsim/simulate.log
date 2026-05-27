@@ -1,0 +1,4 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Simulation Finished!
+$finish called at time : 130100 ns : File "D:/JJM/260521_RISC_V_APB_AMBA_BUS/260521_RISC_V_APB_AMBA_BUS.srcs/sim_1/new/tb_rv32i.sv" Line 75
